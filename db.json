@@ -1,0 +1,171 @@
+{
+  "women": [
+    {
+      "id": 1,
+      "name": "Susan Sarandon",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220914/susan-sarandon.jpg",
+      "bioBlurb": "American actress and activist",
+      "trivia": ["Narrarates many great documentaries"]
+    },
+    {
+      "id": 2,
+      "name": "Maya Angelou",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220905/maya-angula.jpg",
+      "bioBlurb": "American poet, singer, memoirist, and civil rights activist",
+      "trivia": ["wrote Why does the caged bird sing"]
+    },
+    {
+      "id": 3,
+      "name": "Frida Kahlo",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1538344728/frida_K.jpg",
+      "bioBlurb": "Mexican painter and feminist icon",
+      "trivia": [
+        "known for her uncompromising and brilliantly coloured self-portraits that deal with such themes as identity, the human body, and death"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Betty Friedan",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546223655/BettyFriedan.jpg",
+      "bioBlurb": "Feminist Author",
+      "trivia": ["Author of The Feminine Mystique", "Credited with Started 2nd Wave Feminism"]
+    },
+    {
+      "id": 5,
+      "name": "Gloria Steinem",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1538347728/gloria_st.jpg",
+      "bioBlurb": "Writer",
+      "trivia": [
+        "Went undercover as a Playboy Bunny to write an exposé on the terrible treatment and working conditions of 'Bunnies' at Playboy Clubs"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Alexandria Ocasio-Cortez",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220902/AlexiandraOC.png",
+      "bioBlurb": "New York Congresswoman for BRONX / QUEENS",
+      "trivia": [
+        "Youngest Women elected to Congress at age 29",
+        "Beat out incumbant Joe Crowley who outraised her 10 to 1"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ruth Bader Ginsberg",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220913/RBG.png",
+      "bioBlurb": "saving our bodies one supreme court descicion at a time",
+      "trivia": ["Enjoys the nickname 'Notorious RGB'"]
+    },
+    {
+      "id": 8,
+      "name": "Simone de Beauvoir",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546223656/simon_de_beauvoir.jpg",
+      "bioBlurb": "Philosopher Author",
+      "trivia": ["333 sluts", "Had a long relationhip with Jean Paul Satre"]
+    },
+    {
+      "id": 9,
+      "name": "Serena Williams",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220916/SerenaW.png",
+      "bioBlurb": "Tennis Champion",
+      "trivia": ["Competed in professional tennis along with her sister Venis"]
+    },
+    {
+      "id": 10,
+      "name": "Indra Nooyi",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220903/Indra.png",
+      "bioBlurb": "CEO of PEPSI",
+      "trivia": ["CEO of PEPSI"]
+    },
+    {
+      "id": 11,
+      "name": "Anita Hill",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220903/anita_hill.png",
+      "bioBlurb": "Lawyer , Author, and University Professor",
+      "trivia": [
+        "She is a university professor of social policy, law, and women's studies at Brandeis University",
+        "Testified on work place harrassment at the Confirmation Hearing of Supreme Court Justice Clarence Thomas"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Dr Christine Blasey Ford",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220900/DrFord.png",
+      "bioBlurb": "Professor of Psychology and Researcher ",
+      "trivia": [
+        "Testified at the Confirmation Hearing of Supreme Court Justice Bret Kavinah",
+        "The inspiration for this game"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Angela Merkel",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220905/Merkle.png",
+      "bioBlurb": "Chancelor of Germany",
+      "trivia": ["Handling the EU via Germany"]
+    },
+    {
+      "id": 14,
+      "name": "Madonna",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220905/Madonna.png",
+      "bioBlurb": "Recording Artist",
+      "trivia": ["Famous for songs 'Like a Virgin', 'Material Girl'"]
+    },
+    {
+      "id": 15,
+      "name": "Julie Delpy",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220901/JuleyD.png",
+      "bioBlurb": "Actress",
+      "trivia": []
+    },
+    {
+      "id": 16,
+      "name": "Malala Yousafzai",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220907/Malala.png",
+      "bioBlurb": "",
+      "trivia": []
+    },
+    {
+      "id": 17,
+      "name": "Michelle Obama",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220906/Michelle_o.png",
+      "bioBlurb": "First Lady of the United States.",
+      "trivia": ["campaign to get kids active called 'Lets move'", "Planted White house vegetable garden"]
+    },
+    {
+      "id": 18,
+      "name": "Sandra Oh",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220909/SandraO.png",
+      "bioBlurb": "",
+      "trivia": []
+    },
+    {
+      "id": 19,
+      "name": "Agnès Varda",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546223657/agnes_varda.jpg",
+      "bioBlurb": "French Film Director. New Wave",
+      "trivia": []
+    },
+    {
+      "id": 20,
+      "name": "Sheryl Sandberg",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220915/Sheryl_Sanberg.png",
+      "bioBlurb": "COO of Facebook",
+      "trivia": ["Wrote Lean In"]
+    },
+    {
+      "id": 21,
+      "name": "Hillary Clinton",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220900/Hillary_Clinton.png",
+      "bioBlurb": "Politician and Civil Servant",
+      "trivia": ["Senator from New York"]
+    },
+    {
+      "id": 22,
+      "name": "Oprah Winfrey",
+      "img": "https://res.cloudinary.com/dh41vh9dx/image/upload/v1546220913/oprah.png",
+      "bioBlurb": "Mogule",
+      "trivia": ["The Oprah Winfrey Show ran for 4,561 episodes"]
+    }
+  ]
+}
